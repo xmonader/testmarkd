@@ -1,0 +1,13 @@
+name: testmarkd
+version: 0.1.0
+
+authors:
+  - xmonader <xmonader@gmail.com>
+
+targets:
+  testmarkd:
+    main: src/testmarkd.cr
+
+crystal: 0.34.0
+
+license: MIT
